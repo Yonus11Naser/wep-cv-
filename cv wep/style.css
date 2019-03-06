@@ -1,0 +1,109 @@
+.read2{
+	background:#ecf0f1;
+	width:71%;
+	border:solid 2px #2c3e50;
+	font-size:20px;
+
+	 font-family:tahoma;
+}
+.foto{
+	width:42%;
+   border-radius: 9px;
+background:#2C3A47;
+
+}
+.about{
+	width:56%;
+  float:right; 
+
+}
+.ssd
+{
+	padding:20px;
+	background:#2C3A47;
+	width:1300px;
+    color:#00cec9;
+	font-family:tahoma;
+	font-size:30px;
+	word-spacing:60px;
+	letter-spacing: 25px;
+}
+.eduacation{
+	background:#2ecc71;
+	text-align:center;
+	width:29%;
+	
+	font-family:tahoma;
+	color:#ecf0f1;
+	float:right;
+	height:360px;
+	
+}
+.blgi{	
+	background:black;
+	font-size:26px;
+	height:294px;
+}
+.experience{
+	background:#f0932b;
+	text-align:center;
+	width:29%;
+	height:20%;
+	
+	font-family:tahoma;
+	color:#ecf0f1;
+	float:right;
+	
+}
+.blgi2{	
+	background:black;
+	font-size:30px;
+	height:298px;
+}
+.contact{
+	background:#e84118;
+	text-align:center;
+	width:29%;
+	height:20%;
+	
+	font-family:tahoma;
+	color:#ecf0f1;
+	float:right;
+	
+}
+.blgi3{	
+	background:black;
+	font-size:30px;
+	height:180px;
+}
+.worked{
+	background:#ecf0f1;
+	width:71%;
+	font-size:30px;
+	font-color:#2c3e50;
+	 float:left;
+	
+}
+.elan{ 
+	width:15%;
+	float:left;
+}
+.non{ 
+	width:30%;
+		 
+}
+.qua{ 
+	width:15%;
+	 
+}
+
+
+.grid-work{
+	
+	display:grid;
+	 border-radius: 8px;
+	grid-template-columns:350px 350px 350px ;
+}
+
+ 
+ 
